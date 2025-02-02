@@ -1,6 +1,6 @@
 # SwagLabs Automation
 
-Этот проект содержит автоматизированные тесты для [SwagLabs](https://www.saucedemo.com) с использованием **Playwright** и **K6**.
+This project have some automation test for  [SwagLabs](https://www.saucedemo.com) using the **Playwright** and **K6**.
 
 ## 📌 Установка
 1. Install Node.js: [скачать](https://nodejs.org/)
